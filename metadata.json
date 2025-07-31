@@ -1,0 +1,6 @@
+{
+  "name": "Video Scene Analyzer",
+  "description": "Upload a video to get a detailed, timestamped transcript of its scenes, including descriptions of foreground, background, and actions, powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
